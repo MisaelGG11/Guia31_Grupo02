@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet text="txt/css" href="css/ejercicio4.css"?>
 <registro>
-<panel name="CATEGORIAS - CELSIUS">
+<panel name="TEMPERATURAS - CELSIUS">
   <categoria id="0">Mínima<leyenda1></leyenda1></categoria>
   <categoria id="1">Promedio<leyenda2></leyenda2></categoria>
   <categoria id="2">Máxima<leyenda3></leyenda3></categoria>
