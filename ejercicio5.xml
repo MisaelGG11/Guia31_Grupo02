@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./css/estilos-ejer5.css"?>
 <!-- ejercicio05 -->
 <?xml-stylesheet href="css/ejercicio5.css"?>
 <agenda>
@@ -115,18 +116,11 @@
     <email>qcordoba@carrera.com.sv</email>
   </contacto>
   <contacto id="15" fechaingreso="18/06/2022">
-    <nombre>Gabriel Villa</nombre>
+   <nombre>Gabriel Villa</nombre>
     <telfijo>2404-5768</telfijo>
     <teltrabajo>7655-8114</teltrabajo>
     <celular>6970-2539</celular>
     <direccion>Vereda Domingo, Casa 2</direccion>
     <email>gabriel.villagomez@hotmail.es</email>
-  </contacto>
-    <nombre>Guillermo Martínez</nombre>
-    <telfijo>2045-7003</telfijo>
-    <teltrabajo>7542-5964</teltrabajo>
-    <celular>6335-8043</celular>
-    <direccion>Av. Nil Alarcón, Piso 80</direccion>
-    <email>guillem40@yahoo.es</email>
   </contacto>
 </agenda>

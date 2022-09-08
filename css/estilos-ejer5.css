@@ -1,0 +1,50 @@
+agenda {
+    background: papayawhip;
+    height: 1000px;
+    width: 1000px;
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+
+contacto {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+}
+
+/* agenda contacto:nth-child(1) {
+    color: blue;
+} */
+
+
+
+nombre {
+    color: brown;
+    font-weight: bold;
+    font-size: large;
+    display: inline;
+    margin-right: 10px;
+}
+
+telfijo {
+    display: list-item;
+}
+
+teltrabajo {
+    display: list-item;
+}
+
+celular {
+    display: list-item;
+}
+
+direccion {
+    display: list-item;
+}
+
+email {
+    display: list-item;
+}
