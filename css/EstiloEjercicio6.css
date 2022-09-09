@@ -1,0 +1,57 @@
+/* ejercicio1a.css GR19001 */
+
+estudiante{
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    display:block;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 3px darkgreen solid;
+    background:#181A1B;
+    color:white;
+}
+
+nombres,apellidos*{
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    display:block;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 3px darkgreen solid;
+    background:#181A1B;
+    color:white;
+}
+
+materia,nombre,codigo*{
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    display:block;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 3px darkgreen solid;
+    background:#181A1B;
+    color:white;
+}
+
+horario,gl,gt,ciclo*{
+    max-width: 1000px;
+    margin: 10px auto;
+    padding: 20px;
+    display:block;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 3px darkgreen solid;
+    background:#181A1B;
+    color:white;
+}
