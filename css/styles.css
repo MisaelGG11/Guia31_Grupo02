@@ -1,0 +1,85 @@
+:root{
+    --fondo: #1C1F20;
+    --fondo-oscuro: #181A1B;
+    --negro: #000;
+    --blanco: #fff;
+    --enlace: #32a3f6;
+    --verde: #0f3229;
+    --gris: #aba499;
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1 rem = 10px */
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+*{color: var(--blanco);}
+
+body{    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    background-color: var(--fondo-oscuro);
+}
+
+h1{font-size: 4rem;}
+
+h2{font-size: 3rem;}
+
+h3{font-size: 2rem;}
+
+ul, li{list-style: none;}
+
+a{text-decoration: none;}
+
+.centrar{margin: 0 auto;}
+
+.centrar-texto{text-align: center;}
+
+.max-width{max-width: 100rem;}
+
+.contenedor-principal{
+    background-color: var(--fondo);
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    margin: 5rem auto;
+    border-radius: 5%;
+}
+
+.integrantes, .ejercicios{
+    display: flex;
+    justify-content: center;
+}
+
+.integrantes{
+    gap: 1rem;
+}
+
+.integrantes__listado{
+
+}
+
+.integrantes__listado--coordinador{
+    font-weight: bold;
+}
+
+.ejercicios{
+    gap: 10rem;
+}
+
+.btn-ejercicio{
+    background-color: var(--verde);
+    padding: 3rem;
+    border-radius: 25%;
+    transition: transform .2s;
+}
+
+.btn-ejercicio:hover{
+    transform: scale(1.15);
+}
