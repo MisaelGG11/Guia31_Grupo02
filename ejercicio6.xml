@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet href="css/EstiloEjercicio6.css"?>
+<!-- ejercicio06.xml  GE19020, LR18062, GR19001 -->
+<estudiante>
+        <nombres>Carlos Alfredo</nombres>
+        <apellidos>Montano Navarrete</apellidos>
+        <carnet>MN14015</carnet>
+        
+        
+      <materia id="1">
+          <nombre>Técnicas de programación para internet</nombre>
+          <codigo>TPI115</codigo>
+          
+              <horario>
+                <gl>05</gl>
+                <gt>01</gt>
+                <ciclo>par</ciclo>
+              </horario> 
+      </materia>
+      
+      
+      <materia id="2">
+          <nombre>Teoria de sistemas</nombre>
+          <codigo>TSI115</codigo>
+          
+              <horario>
+                <gl>08</gl>
+                <gt>02</gt>
+                <ciclo>par</ciclo>
+              </horario> 
+      </materia>
+      
+      <materia id="3">
+          <nombre>Tecnologia orientadas a objetos</nombre>
+          <codigo>TOO115</codigo>
+          
+              <horario>
+                <gl>10</gl>
+                <gt>01</gt>
+                <ciclo>par</ciclo>
+              </horario> 
+      </materia>
+      
+    </estudiante>
