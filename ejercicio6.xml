@@ -8,36 +8,36 @@
         
         
       <materia id="1">
-          <nombre>Técnicas de programación para internet</nombre>
-          <codigo>TPI115</codigo>
+          <texto>Materia:<nombre>Técnicas de programación para internet</nombre></texto>
+         <texto> Codigo:<codigo>TPI115</codigo></texto>
           
               <horario>
-                <gl>05</gl>
-                <gt>01</gt>
-                <ciclo>par</ciclo>
+               <texto>Gl:<gl>05</gl></texto>
+                <texto>Gt:<gt>01</gt></texto>
+                <texto>ciclo<ciclo>II</ciclo></texto>
               </horario> 
       </materia>
       
       
       <materia id="2">
-          <nombre>Teoria de sistemas</nombre>
-          <codigo>TSI115</codigo>
+          <texto>Materia:<nombre>Teoria de sistemas</nombre></texto>
+          <texto>Codigo:<codigo>TSI115</codigo></texto>
           
               <horario>
-                <gl>08</gl>
-                <gt>02</gt>
-                <ciclo>par</ciclo>
+               <texto>Gl:<gl>05</gl></texto>
+                <texto>Gt:<gt>01</gt></texto>
+                <texto>ciclo<ciclo>II</ciclo></texto>
               </horario> 
       </materia>
       
       <materia id="3">
-          <nombre>Tecnologia orientadas a objetos</nombre>
-          <codigo>TOO115</codigo>
+         <texto>Materia:<nombre>Tecnologia orientadas a objetos</nombre></texto> 
+          <texto>Codigo:<codigo>TOO115</codigo></texto>
           
               <horario>
-                <gl>10</gl>
-                <gt>01</gt>
-                <ciclo>par</ciclo>
+               <texto>Gl:<gl>05</gl></texto>
+                <texto>Gt:<gt>01</gt></texto>
+                <texto>ciclo<ciclo>II</ciclo></texto>
               </horario> 
       </materia>
       
